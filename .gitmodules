@@ -1,0 +1,3 @@
+[submodule "SecureDistibutedSystems"]
+	path = SecureDistibutedSystems
+	url = https://github.com/stanislavorlov/SecureDistibutedSystems
